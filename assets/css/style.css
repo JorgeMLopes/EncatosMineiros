@@ -1,0 +1,65 @@
+.logo {
+    height: 100px;
+    height: 85px;
+}
+
+.menu-itens li {
+    padding-left: 30px;
+}
+
+.navbar-nav {
+    align-items: center;
+}
+
+.card-img-top {
+    height: 470px;
+}
+
+.img-carousel {
+    height: 550px;
+}
+
+.modal-title {
+    text-transform: uppercase;
+}
+
+h5 {
+    text-transform: capitalize;
+}
+
+.person {
+    justify-content: space-between;
+}
+
+footer {
+    margin-bottom: 20px;
+}
+
+footer h3 {
+    text-transform: uppercase;
+    font-size: 17px;
+    color: #0D6EFD;
+}
+
+.img-footer {
+    padding-right: 5px;
+    height: 50px;
+    object-fit: cover;
+}
+
+.text-footer {
+    display: inline;
+}
+
+.text-footer {
+    display: inline;
+}
+
+.redes-sociais {
+    display: inline;
+    padding-right: 10px;
+}
+
+svg {
+    padding: 2px;
+}
